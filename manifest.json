@@ -1,0 +1,7 @@
+{
+    "name": "rkPlugged",
+    "description": "A multifarious Rikka and Replugged plugin that can run on multiple client mods without modification.",
+    "license": "GPL-3.0",
+    "version": "1.0.0",
+    "author": "V3L0C1T13S"
+}
